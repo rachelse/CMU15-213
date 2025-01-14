@@ -1,5 +1,5 @@
 source/*
 *.tar
 activity/*/*-bin/*
-bootcamp/1_linux/*
+bootcamp/*
 .vscode/*
