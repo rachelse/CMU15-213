@@ -75,3 +75,4 @@ isAlpha (ltr=51 '3') at phase1.c:14
 ### Part 2
 - Error observed by running `./phase2` : Floating point exception (core dumped)
 - It was caused by division by zero, where `S->top->len` is zero. len of the nodes are not assigned properly. 
+- Resolved the error by adding `l->len = S->top->len + 1;` in `push` function.
