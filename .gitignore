@@ -1,5 +1,6 @@
 source/*
 *.tar
+*.pdf
 activity/*/*-bin/*
-bootcamp/*
+bootcamp/*/*_handout/*
 .vscode/*

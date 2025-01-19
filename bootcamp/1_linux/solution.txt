@@ -1,0 +1,8 @@
+/home/seamustard52/study/CMU15-213/lab/lab1-linux/lab1_handout/start/free_the/university_center
+rmdir capture_the
+pineapple
+cat evil24.txt
+cat evil24.txt | head
+touch release.txt
+42
+free the university center stones we tried to release them but no one listened
