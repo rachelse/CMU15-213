@@ -4,3 +4,13 @@ source/*
 activity/*/*-bin/*
 bootcamp/*/*_handout/*
 .vscode/*
+lab/*/*-handout/driver.pl
+lab/*/*-handout/*.h
+lab/*/*-handout/decl*
+lab/*/*-handout/btest*
+lab/*/*-handout/fshow*
+lab/*/*-handout/ishow*
+lab/*/*-handout/tests.c
+Makefile
+Driver*
+dlc
