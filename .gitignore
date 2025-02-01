@@ -11,6 +11,7 @@ lab/*/*-handout/btest*
 lab/*/*-handout/fshow*
 lab/*/*-handout/ishow*
 lab/*/*-handout/tests.c
+lab/rec*/*-handout
 Makefile
 Driver*
 dlc

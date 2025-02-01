@@ -90,4 +90,7 @@
   The array stores pointer of the inner arrays. 
   Therefore, the stride of the outer array is not affected by the length of the inner array.
 - Problem16
+
+  The seconde element of the array will be modified as well. 
+
 ### Activity 6: Endianness
